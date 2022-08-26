@@ -2,7 +2,7 @@ import React from "react";
 
 import { FieldBase } from "../field-base";
 
-interface Props
+export interface Props
   extends React.DetailedHTMLProps<
     React.InputHTMLAttributes<HTMLInputElement>,
     HTMLInputElement
