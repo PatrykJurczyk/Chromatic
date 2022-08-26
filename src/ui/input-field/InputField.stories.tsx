@@ -10,7 +10,7 @@ export default {
 const Template: Story<Props> = (args) => {
   // Here you can add additional logic if needed.
   return (
-    <div style={{ padding: "16px", background: "#101b48" }}>
+    <div style={{ padding: "86px", background: "#101b48" }}>
       <InputField {...args} />
     </div>
   );
