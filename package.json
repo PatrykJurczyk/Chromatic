@@ -78,5 +78,7 @@
     "chromatic": "^6.7.4",
     "prop-types": "^15.8.1",
     "webpack": "^5.74.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "cra-template@0.1.0"
 }
